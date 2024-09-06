@@ -1,2 +1,3 @@
-# Diabetes-Prediction-Analysis
-Diabetes Prediction Analysis involves using SQL, Excel, and Power BI to analyze patient data, identify key factors, and predict the likelihood of diabetes onset. This project utilizes data-driven insights to enhance decision-making for healthcare management.
+# Diabetes Prediction Analysis
+DASH BOARD
+![image](https://github.com/user-attachments/assets/44dff38d-80b1-45ce-adb1-c171e855bb53)
